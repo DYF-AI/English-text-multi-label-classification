@@ -11,10 +11,9 @@ obscene
 threat
 insult
 identity_hate
-Document download link: https://share.weiyun.com/5O76Jzm (Open the website through PC end, you can skip downloading the APP of Weiyun)
-Password: do6p1m
+
 You must create a model which predicts a probability of each type of toxicity for each comment.
-Please send back homework to 88603065@qq.com.
+
 
 Good luck!   
 Best regards,

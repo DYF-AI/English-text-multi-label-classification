@@ -19,6 +19,7 @@ Please send back homework to 88603065@qq.com.
 Good luck!   
 Best regards,
 
+### 我的初步想法，以前大部分是做数据相关的，很少涉及文本分类。
 您好，很高兴收到MorningStar的来信，以下是我对邮件内容的回答。
 1、项目分析
 对于一个多标签分类问题，即一个样本可能会对应对个label。

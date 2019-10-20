@@ -18,8 +18,7 @@ You must create a model which predicts a probability of each type of toxicity fo
 Good luck!   
 Best regards,
 
-### 我的初步想法，以前大部分是做数据相关的，很少涉及文本分类。
-您好，很高兴收到MorningStar的来信，以下是我对邮件内容的回答。
+
 1、项目分析
 对于一个多标签分类问题，即一个样本可能会对应对个label。
 我的第一个想法是将多个标签组合的形式转为one-hot形式，然后对one-hot后的label建立一个多分类模型，即将多标签分类模型转换为多分类模型，然而当标签的类别个数太多时，转成one-hot编码形式，需要的one-hot维数太大，这种方法有点行不通。

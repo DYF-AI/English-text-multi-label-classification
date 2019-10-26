@@ -61,6 +61,7 @@ identity_hate	158166（99.120%）	1405（0.880%）
 2	GPU	GTX 1080
 3	内存	32G
 
+
 实验文件：
 1、Data_preprocess.py: 数据预处理
 2、main.py: 模型训练（主程序）
